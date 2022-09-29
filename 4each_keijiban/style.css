@@ -1,0 +1,132 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ",sans-serif;
+}
+.logo img{
+    width:250px;
+}
+header{
+    width:100%;
+    height:60px;
+    background-color: black;
+}
+header ul{
+   list-style-type: none;
+   line-height: 60px;
+}
+header ul li{
+    float:left;
+    padding-right:30px;
+    padding-left:40px;
+    color:white;
+}
+main{
+   clear: both;
+   
+   
+}
+.main-container{
+    width: 95%;
+    margin: 0px auto;
+}
+
+h1{
+    font-size: 25px;
+    border-left: 5px solid black;
+    border-bottom: 2px solid black;
+    width: 90%;
+}
+
+.left{
+    float: left;
+    background-color: white;
+    width: 60%;
+    height: 800px;
+    margin-bottom: 40px;
+}
+
+.right{
+    float: left;
+    background-color: white;
+    width: 30%;
+    height: 800px;
+    margin-bottom: 40px;   
+}
+
+h2{ margin: 0 auto;
+   margin-top: 30px;
+   margin-bottom: 20px;
+   margin-left: 5px;
+   border-left: 4px red solid;
+   background-color: white;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   width: 400px;
+   font-size: 20px;
+}
+
+form{margin: 0 auto;
+    margin-left: 0%;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: 93%;
+}
+
+
+
+.text,textarea{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.toukou{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom:  2px gray solid;
+}
+
+h4{
+    
+    border-bottom: 2px #bfbfbf solid;
+    width: 90%;
+    
+       
+}
+
+.box{
+    width: 90%;
+    margin-top: 5px;
+    background-color: white;
+    line-height: 2.5;
+    text-align: center;
+    display: inline-block;
+    border: 3px #ebebeb solid;
+    text-align: left;
+    padding-left: 20px;
+    
+}
+
+
+
+h3{
+    border-bottom: 2px solid black;
+    padding-top: 5px;
+}
+.doc{
+    margin: 10px 5px 10px 20px;
+    font-size: 15px;
+}
+
+footer{
+    text-align:center;
+    float:left;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
